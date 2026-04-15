@@ -9,7 +9,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;WordPress+Specialist+%F0%9F%8E%AF;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Laravel+%F0%9F%8E%AF;Angular+%7C+Next.js+%7C+React+%E2%9A%A1;WordPress+Specialist+%F0%9F%92%BB;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,19 +19,19 @@
 
 ```javascript
 const adil = {
-  location: "Marrakech, Morocco 🇲🇦",
-  role: "Full-Stack Developer & WordPress Specialist",
+  location:     "Marrakech, Morocco 🇲🇦",
+  role:         "Full-Stack Developer & WordPress Specialist",
   currentFocus: "Building scalable web applications",
-  portfolio: "https://adil-nmili.netlify.app/",
-  
-  languages: ["JavaScript", "TypeScript", "PHP", "HTML/CSS"],
-  
+  portfolio:    "https://adil-nmili.netlify.app/",
+
+  languages: ["JavaScript", "TypeScript", "Java", "PHP", "HTML/CSS"],
+
   technologies: {
-    frontend:  ["React", "Bootstrap", "Tailwind CSS"],
-    backend:   ["Node.js", "WordPress", "REST APIs"],
-    tools:     ["Git", "GitHub", "VS Code", "Figma"],
+    frontend:  ["Angular", "Next.js", "React", "Tailwind CSS", "ShadCN", "Bootstrap"],
+    backend:   ["Spring Boot", "Laravel", "Node.js", "REST API", "WordPress"],
+    tools:     ["Git", "GitHub", "GitLab", "Jira", "Trello", "VS Code"],
   },
-  
+
   motto: "Clean code is not written by following rules — it is written with care."
 };
 ```
@@ -40,18 +40,43 @@ const adil = {
 
 ## 🛠️ Tech Stack
 
+### 🌐 Frontend
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### ⚙️ Backend
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Workflow
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
